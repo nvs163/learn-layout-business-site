@@ -178,15 +178,15 @@ h6 {
 }
 
 .hero-input__icon__name:before {
-  content: url(./img/main/hero/icon-man.png);
+  content: url(../img/main/hero/icon-man.png);
 }
 
 .hero-input__icon__mail:before {
-  content: url(./img/main/hero/icon-mail.png);
+  content: url(../img/main/hero/icon-mail.png);
 }
 
 .hero-input__icon__phone:before {
-  content: url(./img/main/hero/icon-man.png);
+  content: url(../img/main/hero/icon-man.png);
 }
 
 .hero-button {
@@ -274,7 +274,7 @@ h6 {
   content: '';
   width: 50%;
   height: 100%;
-  background: url(./img/main/about-us/table.png) left top no-repeat;
+  background: url(../img/main/about-us/table.png) left top no-repeat;
   position: absolute;
   left: 0;
   overflow: hidden;
@@ -550,7 +550,7 @@ h6 {
   align-items: center;
   flex-direction: column;
   padding: 38px 0px 163px;
-  background: url(./img/main/newsletter/map.png) no-repeat;
+  background: url(../img/main/newsletter/map.png) no-repeat;
 }
 
 .address-circle {
