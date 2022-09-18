@@ -1,0 +1,50 @@
+.services {
+  padding: 100px 0px;
+}
+
+.services-header {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.services-description {
+  display: block;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.services-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.services-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex: 0 0 48%;
+  margin-bottom: 30px;
+}
+
+.services-card__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  flex: 0 1 85%;
+}
+
+
+.services-card__header {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.services-card__description {
+  padding-right: 20px;
+  line-height: 18px;
+}
