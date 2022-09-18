@@ -178,15 +178,15 @@ h6 {
 }
 
 .hero-input__icon__name:before {
-  content: url(/img/main/hero/icon-man.png);
+  content: url(./img/main/hero/icon-man.png);
 }
 
 .hero-input__icon__mail:before {
-  content: url(/img/main/hero/icon-mail.png);
+  content: url(./img/main/hero/icon-mail.png);
 }
 
 .hero-input__icon__phone:before {
-  content: url(/img/main/hero/icon-man.png);
+  content: url(./img/main/hero/icon-man.png);
 }
 
 .hero-button {
